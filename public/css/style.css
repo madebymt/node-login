@@ -1,0 +1,44 @@
+.form {
+    margin-left: 200px;
+    font-family: serif;
+    color:grey;
+}
+
+input[type = submit]{
+    background: black;
+    color: white;
+    padding:10px;
+
+}
+
+h3 {
+    margin-left: 150px;
+    color: brown;
+    font-size: 30px;
+
+}
+
+img {
+    margin-left: 200px;
+}
+
+form input {
+    width: 180px;
+    padding:10px;
+    margin: 10px;
+}
+
+h1 {
+    color:brown;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: serif;
+    color:grey;
+    margin: 20px;
+
+}
